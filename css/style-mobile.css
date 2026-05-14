@@ -1,0 +1,36 @@
+body {
+	font-size: 15px;
+}
+
+#container,
+#lewakolumna,
+#prawakolumna {
+	width: 100%;
+}
+
+#links {
+	display: none;
+}
+
+#naglowek {
+	justify-content: flex-start;
+}
+
+#tresc {
+	flex-direction: column;
+}
+
+#lewakolumna {
+	padding: 10px 0;
+}
+
+#prawakolumna {
+	padding: 10px;
+}
+
+#main-photo {
+	float: none;
+	width: 100%;
+	max-width: 100%;
+	margin: 10px 0;
+}
